@@ -1,9 +1,4 @@
-function App() {
-  return (
-    <div>
-      <h1>Welcom back!</h1>
-    </div>
-  );
-}
-
+  function App() {
+    return null;
+  }
 export default App;
